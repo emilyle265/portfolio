@@ -1,0 +1,94 @@
+body {
+  font-family: "Raleway", sans-serif;
+  color: #747704;
+  font-weight: 300;
+}
+
+.text-muted {
+  color: #bcbbbb;
+}
+
+.text-thin {
+  font-weight: 100;
+}
+
+.title-super {
+  font-size: 70px;
+}
+
+.title-logo {
+  margin-top: 30px;
+  border-radius: 50%;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.project-2-img {
+  width: 100%;
+  height: auto;
+}
+
+.project-3-img {
+  width: 100%;
+  height: auto;
+}
+
+.mini-logo {
+  width: 75px;
+  height: 75px;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: gray;
+}
+
+.footer a {
+  font-size: 20px;
+  display: inline-block;
+}
+
+.col-md-6 {
+  font-size: 16px;
+}
+
+.project-img {
+    position: relative;
+    padding-top: 5px;
+    /*padding-bottom: 10px;*/
+}
+
+.project-img:hover {
+   opacity: 0.5;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+
+#about {
+    height: 100%;
+    padding-top: 75px;
+    padding-bottom: 145px;
+    /*text-align: center;*/
+    /*background: #eee;*/
+}
+
+#portfolio {
+    height: 100%;
+    padding-top: 75px;
+    padding-bottom: 145px;
+    /*text-align: center;*/
+    /*background: #fff;*/
+}
+
+#contact {
+    height: 100%;
+    padding-top: 75px;
+    padding-bottom: 100px;
+}
+
+/*#social {
+  text-align: center;
+  padding-bottom: 40px;
+}*/
